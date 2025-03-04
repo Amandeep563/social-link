@@ -5,3 +5,12 @@
   margin: 0;
   padding: 0;
 }
+
+body {
+  background-color: #0d0f1c;
+  /* Dark background */
+  background-image: radial-gradient(#555 1px, transparent 1px);
+  background-size: 20px 20px;
+  color: #f5f5f5;
+  /* Adjust dot spacing */
+}
