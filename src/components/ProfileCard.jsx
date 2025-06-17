@@ -57,7 +57,7 @@ function ProfileCard() {
           </a>
 
           <a
-            href="https://aman-portfolio-amber-one.vercel.app/"
+            href="https://aman-protfolio-ashen.vercel.app/"
             target="_blank"
             rel="noopener noerferrer"
           >
@@ -65,14 +65,6 @@ function ProfileCard() {
             Aman Portfolio
           </a>
 
-          {/* <a
-            href="https://www.codedex.io/@amandeep5018"
-            target="_blank"
-            rel="noopener noreferrer"
-          >
-            <img src={codedex} alt="daily.dev" width="24" height="24" />
-            Codédex
-          </a> */}
         </div>
       </div>
     </div>
