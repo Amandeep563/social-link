@@ -62,7 +62,7 @@ function ProfileCard() {
             rel="noopener noerferrer"
           >
             <img src={AmanLogo} alt="Amandeep Logo" width="24" height="24" />
-            Aman Portfolio
+              Portfolio
           </a>
 
         </div>
