@@ -7,7 +7,7 @@ import "./ProfileCard.css";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { faGithub } from "@fortawesome/free-brands-svg-icons";
 import { faLinkedin } from "@fortawesome/free-brands-svg-icons";
-import { faTwitter } from "@fortawesome/free-brands-svg-icons";
+import { faXTwitter } from "@fortawesome/free-brands-svg-icons";
 
 function ProfileCard() {
   return (
@@ -43,7 +43,7 @@ function ProfileCard() {
             target="_blank"
             rel="noopener noreferrer"
           >
-            <FontAwesomeIcon icon={faTwitter} size="lg" />
+            <FontAwesomeIcon icon={faXTwitter} size="lg" />
             Twitter
           </a>
 
