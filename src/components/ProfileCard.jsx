@@ -8,6 +8,8 @@ import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { faGithub } from "@fortawesome/free-brands-svg-icons";
 import { faLinkedin } from "@fortawesome/free-brands-svg-icons";
 import { faXTwitter } from "@fortawesome/free-brands-svg-icons";
+import {fadiscord} from "@fortawesome/fontawesome-svg-core"
+
 
 function ProfileCard() {
   return (
@@ -63,6 +65,14 @@ function ProfileCard() {
           >
             <img src={AmanLogo} alt="Amandeep Logo" width="24" height="24" />
               Portfolio
+          </a>
+          <a
+            href="https://discord.gg/Mr52Mejmrf"
+            target="_blank"
+            rel="noopener noerferrer"
+          >
+            <img src={fadiscord} alt="Discord" width="24" height="24" />
+              Discord
           </a>
 
         </div>
