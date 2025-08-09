@@ -58,7 +58,7 @@ function ProfileCard() {
           </a>
 
           <a
-            href="https://aman-portfolio-ashen.vercel.app/"
+            href="https://amandeep563.vercel.app/"
             target="_blank"
             rel="noopener noerferrer"
           >
